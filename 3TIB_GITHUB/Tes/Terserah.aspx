@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <p>
             TES
-            <asp:Button ID="Button1" runat="server" Text="Button" />
+            <asp:Button ID="Button1" runat="server" Text="Kirim" />
         </p>
     </form>
 </body>
